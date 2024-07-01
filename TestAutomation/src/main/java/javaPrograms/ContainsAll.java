@@ -14,7 +14,7 @@ public class ContainsAll {
 		people.add("Sachin");
 		people.add("Krishwanth");
 		people.add("Vimal");
-		people.add("Vignesh");
+		people.add("VigneshK");
 		
 		
 
