@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Leaftaps" parallel="tests" thread-count="5" verbose="5">
+  <test name="Smoke TestCases" parallel="classes">
+    <classes>
+      <class name="testNg.DeleteLead"/>
+      <class name="testNg.MergeLead"/>
+      <class name="testNg.CreateLead"/>
+      
+    </classes>
+    
+    
+  </test> <!-- Test -->
+  <test name="regression TestCases" >
+    <classes>
+      
+      <class name="testNg.DuplicateLead"/>
+      <class name="testNg.EditLead"/>
+    </classes>
+    
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
