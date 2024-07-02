@@ -11,7 +11,7 @@ public class ContainsAll {
 		List<String> people=new ArrayList<String>();
 
 		people.add("YazhIniyan");
-		people.add("Sachin C");
+		people.add("Sachin Chandran");
 		people.add("Krishwanth");
 		people.add("VimalRaj M");
 		people.add("Vignesh kandiah");
