@@ -13,7 +13,7 @@ public class ContainsAll {
 		people.add("YazhIniyan");
 		people.add("Sachin");
 		people.add("Krishwanth");
-		people.add("Vimal Raj");
+		people.add("VimalRaj M");
 		people.add("VigneshK");
 		
 		
